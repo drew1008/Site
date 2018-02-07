@@ -49,5 +49,6 @@ p.desc {
   margin: 10px 70px 10px 20px;
 }
 p {
+  border-style: hidden;
   margin: 10px 10px 10px 10px;
 }
