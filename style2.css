@@ -1,0 +1,51 @@
+body {
+  background-color: LightGray;
+  border: 10px solid Gray;
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+  background-color: gray;
+  color: lightgray;
+  margin-bottom: 0px;
+}
+h2.bel {
+  text-align: center;
+  font-style: italic;
+  font-size: 21px;
+  background-color: gray;
+  margin-top: 5px;
+  margin-left: 250px;
+  margin-right: 250px;
+  color: lightgray;
+}
+a {
+  color: mediumseagreen;
+  text-decoration: none;
+}
+a.contract {
+  font-size: 19px;
+  border-style: hidden;
+  border-left: 4px solid gray;
+  background-color: gray;
+  margin: 4px 950px 6px 0px;
+  color: lightgray;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  text-decoration: underline;
+}
+p.title {
+  font-size: 30px;
+  border-style: hidden;
+  border-left: 4px solid gray;
+  background-color: gray;
+  margin: 4px 950px 6px 0px;
+  color: lightgray;
+}
+p.desc {
+  font-family: "Verdana", sans-serif;
+  font-size: 14px;
+  margin: 10px 70px 10px 20px;
+
+}
