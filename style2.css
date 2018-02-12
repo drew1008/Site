@@ -31,7 +31,7 @@ a.contract {
   margin: 4px 950px 6px 0px;
   color: lightgray;
   position: absolute;
-  top: 12px;
+  top: 10px;
   left: 18px;
   text-decoration: underline;
 }
@@ -68,3 +68,15 @@ p.desc2 {
   right: -2px;
   background-color: gray;
   color: lightgray;
+}
+a.contract2 {
+  font-size: 19px;
+  border-style: hidden;
+  border-left: 4px solid gray;
+  background-color: gray;
+  margin: 4px 950px 6px 0px;
+  color: lightgray;
+  position: absolute;
+  top: 32px;
+  left: 18px;
+  text-decoration: underline;
