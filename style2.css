@@ -40,7 +40,7 @@ p.title {
   border-style: hidden;
   border-left: 4px solid gray;
   background-color: gray;
-  margin: 4px 950px 6px 0px;
+  margin: 4px 890px 6px 0px;
   color: lightgray;
 }
 p.desc {
@@ -53,3 +53,18 @@ p {
   margin: 20px 20px 20px 20px;
   font-size: 17px;
 }
+img {
+  position: absolute;
+  top: 12px;
+  right: 18px;
+  height: 8%;
+  width: 8%;
+}
+p.desc2 {
+  font-family: "Verdana", sans-serif;
+  font-size: 14px;
+  position: absolute;
+  bottom: -282px;
+  right: -2px;
+  background-color: gray;
+  color: lightgray;
