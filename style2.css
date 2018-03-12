@@ -81,6 +81,6 @@ a.contract2 {
   left: 18px;
   text-decoration: underline;
 }
-a.index {
-  list-style-type: circle;
+ul.a {
+    list-style-type: circle;
 }
